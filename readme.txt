@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: ramoonus
-Donate link: http://www.ramoonus.nl
-Tags: javascript, jquery, excanvas, 
-Requires at least: 3.0.0
-Tested up to: 3.2.0
-Stable tag: 0.8.2.792
+Donate link: http://www.ramoonus.nl/donate/
+Tags: javascript, jquery, excanvas, jqplot
+Requires at least: 3.0
+Tested up to: 3.3
+Stable tag: 1.0.0.1012
 
 jqPlot is a pure JavaScript charting plugin for the jQuery javascript framework. 
 == Description ==
@@ -24,6 +24,11 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.0.0.1012 =
+* Based on 1.0.0 beta 2 build 1012 (november 2011)
+* Code optimalisation
+* Readme update
+
 = 0.8.2.792 = 
 * Initial version
 * Based on 1.0 beta 2 build 792
