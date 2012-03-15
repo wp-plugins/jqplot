@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: jPlot Charts and Graphs for jQuery
+Plugin Name: jqPlot Charts and Graphs for jQuery
 Plugin URI: http://www.ramoonus.nl/wordpress/jqplot/
 Description: A pure JavaScript charting plugin for the jQuery javascript framework. 
 Version: 1.0.0.1012
