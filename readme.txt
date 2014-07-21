@@ -1,9 +1,9 @@
 === jqPlot for WordPress ===
 Contributors: Ramoonus
 Donate link: http://www.ramoonus.nl/donate/
-Tags: javascript, jquery, excanvas, jqplot
+Tags: javascript, jquery, javascript, jqplot, adopt-me, framework, graph
 Requires at least: 3.0
-Tested up to: 3.6
+Tested up to: 3.9.1
 Stable tag: 1.0.8
 
 jqPlot is a pure JavaScript charting plugin for the jQuery javascript framework. 
@@ -34,7 +34,7 @@ jqPlot has been tested on IE 7, IE 8, Firefox, Safari, and Opera. You can see jq
 == Changelog ==
 = 1.0.8 =
 * Updated core to 1.0.8
-* * Readme update
+* Readme update
 
 = 1.0.0.1012 =
 * Based on 1.0.0 beta 2 build 1012 (november 2011)
