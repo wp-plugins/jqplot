@@ -2,8 +2,8 @@
 Contributors: Ramoonus
 Donate link: http://www.ramoonus.nl/donate/
 Tags: javascript, jquery, javascript, jqplot, adopt-me, framework, graph
-Requires at least: 3.0
-Tested up to: 3.9.1
+Requires at least: 3.9
+Tested up to: 4.1
 Stable tag: 1.0.8
 
 jqPlot is a pure JavaScript charting plugin for the jQuery javascript framework. 
